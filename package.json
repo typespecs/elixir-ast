@@ -1,6 +1,6 @@
 {
   "name": "@typespecs/elixir-ast",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "TypeSpec definitions for Elixir AST",
   "license": "MIT",
   "type": "module",
